@@ -1,0 +1,21 @@
+{
+"appname": "demo",
+"default": "huawei",
+"adProviders" : {
+  "admob": {
+    "banner": [],
+    "interstitial": [],
+    "reward": [""],
+    "interstitialDelay": 1.0
+  },
+  "startio": {
+    "appid": "",
+    "interstitialDelay": 60.0
+  },
+  "huawei": {
+    "banner": "",
+    "interstitial": "",
+    "interstitialDelay": 20.0
+  }
+}
+}
